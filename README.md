@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Microsoft Software Development Ecosystem
 - 💬 Ask me about PHP, JS, C#, Java, DigitalOcean, Docker, Plesk, Linux
 - 📫 How to reach me: resat328@gmail.com
-- ⚡ Fun fact: Everythink
+- ⚡ Fun fact: Everything
 
 [![Linkedin Badge](https://img.shields.io/badge/-resatyildiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/resatyildiz/)](https://www.linkedin.com/in/resatyildiz/)
 [![Instagram Badge](https://img.shields.io/badge/-resatyildiz__-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/resatyildiz_/)](https://www.instagram.com/resatyildiz_/)
