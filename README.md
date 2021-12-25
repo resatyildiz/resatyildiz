@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Mazaka Yazılım
 - 🌱 I’m currently learning Microsoft Software Development Ecosystem
-- 💬 Ask me about PHP, JS, C#, Java, DigitalOcean, Docker, Plesk, Linux, React
+- 💬 Ask me about PHP(Custom Designs and Code Approaches, Laravel), JS(React,Vue JS), C#(.NetCore/UOW, Repository Pattern, MVC), Java(Android), DigitalOcean, Docker, Plesk, Linux
 - 📫 How to reach me: resat328@gmail.com
 - ⚡ Fun fact: Everything
 
