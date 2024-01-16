@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=resatyildiz&label=Profile%20views&color=0e75b6&style=flat" alt="resatyildiz" /> </p>
 
-- 🔭 I’m currently working at Mazaka Yazılım
+- 🔭 I’m currently working at Gordion
 
 - 💬 Ask me about **javascript, react, typescript and php**
 
